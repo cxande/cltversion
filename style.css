@@ -1,0 +1,41 @@
+body{
+    background-image: url(.//background.png);
+    
+}
+
+.site h1{
+    color: aliceblue;
+    width: 50%;
+    text-align: center;
+    margin-left: 25%;
+    
+}
+
+.integracao img{
+    height: 30%;
+    width: 40%;  
+}
+
+.integracao {
+    display: inline-flex;
+}
+
+.integracao {
+    width: 80%;
+    color: aliceblue;
+    margin-left: 5%;
+    gap: 10%;
+}
+
+.tituloI h1{
+    margin-bottom: 0%;
+    color: aliceblue;
+    margin-left: 5%;
+}
+
+
+.mudancas {
+    width: 80%;
+    color: aliceblue;
+    margin-left: 5%;
+}
