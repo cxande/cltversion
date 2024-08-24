@@ -1,0 +1,27 @@
+Utilização de tecnicas basicas do CSS, como por exemplo a utilização de mudanças de tamanho com width, cor com color, e margin left para o afastamento da borda lateral, gap tambem sendo utilizado
+para o afastamento do texto e imagem.
+
+.mudancas {
+    width: 80%;
+    color: aliceblue;
+    margin-left: 5%;
+    gap: 10%;
+}
+
+No HTML, utilizei de tecnicas basicas, como separação de elementos por blocos utilizando as divs, h1 para titulos, e p para paragrafos, e inserção de imagens para o texto e melhor representação
+<div class="site">
+
+        <h1>Gerenciamento de Configuração de Software</h1>
+    </div>
+    
+
+    <div class="integracao">
+        <p>Integração Continua é uma metodo utilizado que prope a integarção, ou seja, a inserção de varias informações separadas em um só codigo, fazendo com que juntas funcionem como uma só.
+            Agora integração Continua se refere a fazer a junção desses codigos de forma continua, ou seja, sempre alimentar essa integração, isso pode ser utilizado da seguinte forma. Os devs trabalham
+            em partes separadas do projeto, e no fim do seu dia de trabalho, ambos juntam suas partes desenvolvidas e as integram em um só repositorio, para efetuar os testes necessarios e entender o que precisa ou não ser melhoradoro
+            ou se algo precisar ser efetuado de forma diferente. Apos isso, repetimos isso todo final de dia, para saber como estamos andando e se tudo esta funcionando, pois caso a integração fosse apenas uma vez no fim do projeto, seria um tempo gasto enorme, pois caso o projeto 
+            necessitasse de um metodo diferente lá no começo, todo o projeto desenvolvido apos isso, seria inutil e ineficaz.
+        </p>
+        <p></p>
+        <img src="./integracao.png" alt="">
+    </div>
